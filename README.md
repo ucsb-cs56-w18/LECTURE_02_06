@@ -1,5 +1,13 @@
 # LECTURE_02_06
 
+# Annoucements
+
+* Exam 1 week from today
+* Fair Game:
+    * H00-H06, IC00, IC01
+    * Lectures through 02/08
+    * lab00, lab01, lab02, proj00
+    * Readings in book that go with homework and ic00
 
 # Intellij
 
@@ -48,4 +56,4 @@ When editing bad code, you have an uneasy feeling about changing it.
 # Why do we refactor?
     
 
-
+# Strong Style Pairing
