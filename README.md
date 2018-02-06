@@ -45,6 +45,7 @@ When editing bad code, you have an uneasy feeling about changing it.
     * Comments are "lies waiting to happen"
         * Your code will break if you make changes
         * But comments stay, even if they are untrue
+    * Learn more about the process of naming from this article: [Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
         
 * Microcommits
     * Not being afraid to put something into version control
