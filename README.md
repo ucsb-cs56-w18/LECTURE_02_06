@@ -60,6 +60,6 @@ When editing bad code, you have an uneasy feeling about changing it.
 
 * <http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html>
 
-# Short cut keys for refactoring
+# Short cut keys for refactoring in Intellij
 
-* `Alt-Enter` gives you a quick hint
+* `Alt-Enter` gives you a quick hint (or click the light bulb)
