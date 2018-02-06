@@ -10,7 +10,7 @@
     * This is a fresh "guerrila" install, not an official one
     * It is inadequately tested, but it might work.  Give it a try.
     * It will work best if you are physically at a CSIL or Phelps 3526 terminal--doing this over remote X11 access will probably be painful, or not work at all
-    * The command to type: ``
+    * The command to type: `/cs/faculty/pconrad/intellij/bin/idea.sh`
 
 # Guest Lecture Dillon Kearns
 
@@ -34,6 +34,18 @@ When editing bad code, you have an uneasy feeling about changing it.
         
 * Microcommits
     * Not being afraid to put something into version control
+    
+* Safe Refactoring
+    * Especially if you have an IDE
+    * The IDE can help you do refactoring in a way that is guaranteed to be safe
+        * E.g. renaming `Class1, Class2, Class3` to `User, Student, Instructor` the IDE can help you do that without introducing any changes.
+        
+* Incremental improvement
+    * Really important in refactoring; some student were afraid to make a change because they didn't know what the perfect change was
+    * Give yourself permission to make a change that makes it better, even if it doesn't make it perfect.
+    * Don't let perfect be enemy of the good (or better)
+    
+# Why do we refactor?
     
 
 
