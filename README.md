@@ -67,3 +67,4 @@ When editing bad code, you have an uneasy feeling about changing it.
     * Doesn't need to be tested (unless you are paranoid)---you are relying on the IDE's guarantee that the `switch` and `if/else` are semantically equivalent.
 * `Control-T` for "refactor this"
     * Context specific menu of various ways of refactoring the code.
+* `Control-R` for run all tests
