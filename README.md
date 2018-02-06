@@ -68,3 +68,11 @@ When editing bad code, you have an uneasy feeling about changing it.
 * `Control-T` for "refactor this"
     * Context specific menu of various ways of refactoring the code.
 * `Control-R` for run all tests
+
+# The approach
+
+* We do NOT try to understand the WHOLE THING, and then do a PERFECT refactor of the whole thing.
+* We do the opposite
+* We make small incremental changes a little bit at a time.
+* We only try to understand a small piece at a time.
+* Eventually, the big picture good grand design reveals itself.
