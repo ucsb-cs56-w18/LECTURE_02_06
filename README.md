@@ -22,6 +22,8 @@
 
 # Guest Lecture Dillon Kearns
 
+See the legacy refactoring exercise we did today executed by two experienced software craftsmen on youtube: [Practical Refactoring: how to clean code in many small steps](https://www.youtube.com/watch?v=aWiwDdx_rdo)
+
 Experiences with bad code
 
 * bad variable names
