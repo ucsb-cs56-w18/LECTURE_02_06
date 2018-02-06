@@ -28,7 +28,7 @@ See the legacy refactoring exercise we did today executed by two experienced sof
 Also download the [code from the exercise](https://github.com/tonytvo/coderetreat/tree/c89ebf3e92fff5a95fdc80d37e3a4a66cf877931/refactoring/chartsmart) or check out [more legacy code refactoring exercises in Java and other languages](https://github.com/legacycoderocks/awesome-legacy-code).
 
 
-Experiences with bad code
+## Experiences with bad code
 
 * bad variable names
 * shadowed parameters
