@@ -59,3 +59,7 @@ When editing bad code, you have an uneasy feeling about changing it.
 # Strong Style Pairing
 
 * <http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html>
+
+# Short cut keys for refactoring
+
+* `Alt-Enter` gives you a quick hint
