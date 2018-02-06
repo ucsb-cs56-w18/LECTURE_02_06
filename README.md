@@ -63,3 +63,7 @@ When editing bad code, you have an uneasy feeling about changing it.
 # Short cut keys for refactoring in Intellij
 
 * `Alt-Enter` gives you a quick hint (or click the light bulb)
+    * Example of a safe-refactor: convert a `switch` statement to an equivalent `if/else`
+    * Doesn't need to be tested (unless you are paranoid)---you are relying on the IDE's guarantee that the `switch` and `if/else` are semantically equivalent.
+* `Control-T` for "refactor this"
+    * Context specific menu of various ways of refactoring the code.
