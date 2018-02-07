@@ -62,8 +62,11 @@ When editing bad code, you have an uneasy feeling about changing it.
     
 # Why do we refactor?
     
+# Mobbing/Pairing
 
-# Strong Style Pairing
+Download Mobster, the mob/pair timer app we used, at [mobster.cc](http://mobster.cc).
+
+## Strong Style Pairing
 
 * <http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html>
 
